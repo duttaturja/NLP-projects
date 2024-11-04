@@ -8,9 +8,9 @@ This is one of the practice project to learn NLP with langchain. I have used oll
 -https://ollama.com/download
 ---
 **made using:**
--ollama ai (model: llama3.2:1b)
--langchain 
--streamlit
+- ollama ai (model: llama3.2:1b)
+- langchain 
+- streamlit
 
 ---
 Thank You for visiting my repostitory! Follow and star will be appreciated <3
